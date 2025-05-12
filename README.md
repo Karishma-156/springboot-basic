@@ -73,21 +73,31 @@ After making your changes, save the `README.md` file and close your editor.
 
 ![Postman Screenshot](https://github.com/Karishma-156/springboot-basic/blob/main/postman1.png?raw=true)
 
+
 ## FIRST POST REQUEST:
 
 ![Postman Screenshot](https://github.com/Karishma-156/springboot-basic/blob/main/postman2.png?raw=true)
+
+
+## GET REQUEST AFTER POST REQUEST:
+
+![Postman Screenshot](https://github.com/Karishma-156/springboot-basic/blob/main/getafterpost.png?raw=true)
+
 
 ## DELETE REQUEST:
 
 ![Postman Screenshot](https://github.com/Karishma-156/springboot-basic/blob/main/delete.png?raw=true)
 
+
 ## GET REQUEST AFTER DELETE:
 
 ![Postman Screenshot](https://github.com/Karishma-156/springboot-basic/blob/main/get.png?raw=true)
 
+
 ## MongoDB Compass DATABASE:
 
 ![Postman Screenshot](https://github.com/Karishma-156/springboot-basic/blob/main/mongodbcompass.png?raw=true)
+
 
 ## ENDPOINT :
 
