@@ -67,11 +67,3 @@ DELETE /books/{id}: Delete a book.
 
 After making your changes, save the `README.md` file and close your editor.
 
-### 4. **Commit and Push Your Changes**
-
-Now that you've updated the `README.md` file, follow these commands to commit and push the changes:
-
-```bash
-git add README.md
-git commit -m "Update README.md"
-git push origin main
