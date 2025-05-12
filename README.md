@@ -67,3 +67,8 @@ DELETE /books/{id}: Delete a book.
 
 After making your changes, save the `README.md` file and close your editor.
 
+### OUTPUT:
+
+EMPTY GET POST (INITIALLY):
+
+![Postman Screenshot](https://github.com/Karishma-156/springboot-basic/blob/main/postman1.png?raw=true)
