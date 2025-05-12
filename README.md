@@ -60,8 +60,8 @@ POST /books: Add a new book.
 
 PUT /books/{id}: Update an existing book.
 
-DELETE /books/{id}: Delete a book.```
-
+DELETE /books/{id}: Delete a book.
+```
 
 ### 3. **Save the File**
 
