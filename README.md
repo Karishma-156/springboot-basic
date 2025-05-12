@@ -23,7 +23,7 @@ Ensure MongoDB is running locally or provide the appropriate MongoDB URI in the 
 
 ```properties
 spring.data.mongodb.uri=mongodb://localhost:27017/mydatabase
-
+```
 
 2. Set Up MongoDB
 Ensure MongoDB is running locally or provide the appropriate MongoDB URI in the application.properties file:
