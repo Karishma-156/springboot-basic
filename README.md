@@ -25,32 +25,34 @@ Ensure MongoDB is running locally or provide the appropriate MongoDB URI in the 
 spring.data.mongodb.uri=mongodb://localhost:27017/mydatabase
 ```
 
-2. Set Up MongoDB
+### Set Up MongoDB
 Ensure MongoDB is running locally or provide the appropriate MongoDB URI in the application.properties file:
 
-properties
+```properties
 spring.data.mongodb.uri=mongodb://localhost:27017/mydatabase
+```
 
-
-3. Build and Run the Application
+### Build and Run the Application
 You can build and run the Spring Boot application using the following command:
 
-bash
+```bash
 mvn spring-boot:run
+```
 
 Or you can create a JAR file:
 
-bash
-
+```bash
 mvn clean package
+```
 
 Then run the JAR:
 
-bash
-
+```bash
 java -jar target/bookapi-0.0.1-SNAPSHOT.jar
-4. API Endpoints
-GET /books: Fetch all books.
+```
+
+### API Endpoints
+```GET /books: Fetch all books.
 
 GET /books/{id}: Fetch a specific book by ID.
 
@@ -58,7 +60,7 @@ POST /books: Add a new book.
 
 PUT /books/{id}: Update an existing book.
 
-DELETE /books/{id}: Delete a book.
+DELETE /books/{id}: Delete a book.```
 
 
 ### 3. **Save the File**
